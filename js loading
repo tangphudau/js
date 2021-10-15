@@ -1,0 +1,4 @@
+<script>
+function wic_Loading(a){if(a){document.getElementById("wic_loading").innerHTML="<div style='position: fixed;top:50%;left: 50%;transform: translate(-50%, -50%);text-align: center;'><img src='https://i.gifer.com/ZZ5H.gif' width='100px'><br><br>Đang xử lý...</div>";}else{document.getElementById("wic_loading").innerHTML="";}}
+//function wic_Loading(true/false)
+</script>
